@@ -1,0 +1,28 @@
+
+.sofa
+{
+font-size: 50px;
+width: 100%;
+margin: 0px;
+background-color: orangered;
+font-weight: bold;
+color: black;
+}
+
+#status, #Number_of_Objects
+{
+font-size: 30px;
+font-weight: bold;
+color: #000;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+    
+}
+
+canvas{
+    box-shadow:100px 100px 100px black;
+    border-radius: 20px;
+}
